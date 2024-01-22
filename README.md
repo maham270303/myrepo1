@@ -1,0 +1,1 @@
+This code aims to make a machine learning model using AdaBoost Classifier which will predict the mortality rate of a young individual on the basis of some factors like smoking, depression, sleep, family history, gender, etc.
